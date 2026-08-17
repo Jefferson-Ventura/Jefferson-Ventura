@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un Estudiante de "Desarrollo de Software" apasionado por la tecnología y la programación.<br><br>Actualmente estoy aprendiendo desarrollo de software.<br><br>Quiero mejorar mis habilidades de programación.<br><br>Me gusta aprender nuevas tecnologías.<br><br>Estoy trabajando en proyectos personales , para poner en práctica mis conocimientos. <br><br>Mi objetivo es convertirme en un programador profesional. 
+Soy un estudiante de Desarrollo de Software interesado en aprender sobre programación, diseño de páginas web y tecnología. Me gusta aprender cosas nuevas y mejorar mis habilidades para resolver problemas mediante la programación. Durante mis estudios he aprendido sobre HTML, CSS, algoritmos y diferentes herramientas de desarrollo. Me considero una persona responsable, creativa y con deseos de seguir aprendiendo para mejorar mis conocimientos y prepararme para mi futuro profesional.
 
 
 ## 🌐 Socials:
